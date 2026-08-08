@@ -9,7 +9,10 @@
   "SR_CN": {
     "FPS": "0x0",
     "FOV": "0xFD0410",
-    "UID": "0x0"
+    "GAMEOBJECT_FIND": "0x0",
+    "GETCOMPONENT": "0x0",
+    "SET_VISIBLE": "0x0",
+    "APPLY_DITHER": "0x0"
   },
 
   "SR_OS": {
