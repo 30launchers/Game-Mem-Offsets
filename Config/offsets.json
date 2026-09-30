@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-26",
+  "update_time": "2026-09-30",
 
   "ZZZ": {
     "FPS": "0x0",
@@ -8,7 +8,7 @@
 
   "SR_CN": {
     "FPS": "0x0",
-    "FOV": "0xFE7750",
+    "FOV": "0xFA2940",
     "GAMEOBJECT_FIND": "0x0",
     "GETCOMPONENT": "0x0",
     "SET_VISIBLE": "0x0",
